@@ -26,4 +26,4 @@ The program uses argparse. You need to pass a value for each following parameter
 * **-s, --keystreamsize**: Number of bits of the keystream.
 * **-p, --xorposition**: Positions of the bits to be xor, separated by spaces (start at 0 from the right)
 
-For example: python3 lfsr.py --polynomialsize <size> --keystream <keystream> --keystreamsize <size> --xorposition <pos pos 
+For example: python3 lfsr.py --polynomialsize <size> --keystream <keystream> --keystreamsize <size> --xorposition <pos pos ...>
